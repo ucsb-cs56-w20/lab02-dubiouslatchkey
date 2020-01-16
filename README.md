@@ -11,7 +11,7 @@ This is a minimal "Hello World" type webapp built with Spring Boot.
 # Sources
 
 The code in this repo is based in part on the tutorial here:
-<https://spring.io/guides/gs/spring-boot/>, and the code here in the
+<https://spring.io/guides/gs/spring-boot/apidocs/>, and the code here in the
 `complete` directory of this repo
 <https://github.com/spring-guides/gs-spring-boot.git>.  It has been
 modified for use in UCSB CMPSC 56.
